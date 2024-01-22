@@ -7,5 +7,5 @@
 
 ## Список работ
 1. [Работа 1] (https://github.com/Marian2024-IE/first_use/tree/main/5_first_class)
-2. [Работа 2]
+2. [Работа 2] (https://github.com/Marian2024-IE/first_use/tree/main/6_virtualenvs)
 3. [Работа 3]
